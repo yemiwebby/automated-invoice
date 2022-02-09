@@ -21,4 +21,3 @@ jobs:
       - run:
           name: Run the application
           command: node invoice.js
-          background: true
